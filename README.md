@@ -31,9 +31,9 @@ More tightly defined objectives and key results (OKRs) for the immediate future 
 
 - **Short term (Q2 2019)**
   -   Add new tutorials
-        -   Publish tutorial on File API\[Q1 OKR] \[In Progress]
+        -   Publish tutorial on File API
         -   Create 1+ tutorial(s) for IPFS Camp with assistance from IPFS team
-  -   Enable efficient project growth by clearly document process for building tutorials [In Progress]
+  -   Enable efficient project growth by clearly document process for building tutorials
 
 
 - **Medium term (6-9 month horizon)**
@@ -53,7 +53,7 @@ More tightly defined objectives and key results (OKRs) for the immediate future 
 **Objective: The ProtoSchool website’s structure and design support a positive learning experience.**
 
   -   **Short term (Q2 2019)**
-      -   Enable tutorials that support file upload\[Q1 OKR] \[In Progress]
+      -   Enable tutorials that support file upload
       -   Restructure Vue components to enable an independent landing page (table of contents) for each tutorial
       -   Add a final lesson to each tutorial which links out to external resources for additional learning materials and opportunities for contributions
 
@@ -81,7 +81,7 @@ More tightly defined objectives and key results (OKRs) for the immediate future 
 -   **Short term (Q2 2019)**
   - Improve internal processes to support chapter creation
       - Automate chapter repo creation in GitHub
-      -   Clarify guidance and expectations for chapter organizers [In Progress]
+      -   Clarify guidance and expectations for chapter organizers
 
 
   -   **Medium term (6-9 month horizon)**
@@ -105,7 +105,7 @@ More tightly defined objectives and key results (OKRs) for the immediate future 
 
   -   **Short term (Q2 2019)**
       -   Enable collection of metrics to support decisions about future content
-          -   Add event tracking for actions like completing lessons, refreshing code [Q1 OKR]
+          -   Add event tracking for actions like completing lessons, refreshing code
           -   Adapt hosting and URL strategy to ensure analytics tools can distinguish between page views on different tutorials
       -   Enable efficient project growth
           -   Determine capacity needs
