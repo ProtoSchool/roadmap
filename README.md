@@ -79,9 +79,9 @@ More tightly defined objectives and key results (OKRs) for the immediate future 
 **Objective: Chapter leaders are enabled to foster local learning communities around the globe.**
 
 -   **Short term (Q2 2019)**
-  - Improve internal processes to support chapter creation
-      - Automate chapter repo creation in GitHub
-      -   Clarify guidance and expectations for chapter organizers
+    - Improve internal processes to support chapter creation
+       -   Automate chapter repo creation in GitHub
+       -   Clarify guidance and expectations for chapter organizers
 
 
   -   **Medium term (6-9 month horizon)**
