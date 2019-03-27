@@ -54,9 +54,10 @@ More tightly defined objectives and key results (OKRs) for the immediate future 
 
   -   **Short term (Q2 2019)**
       -   Enable tutorials that support file upload
+
       -   Restructure Vue components to enable an independent landing page (table of contents) for each tutorial
       -   Add a final lesson to each tutorial which links out to external resources for additional learning materials and opportunities for contributions
-
+      -   Enable tutorials that support multiple-choice questions
 
   -   **Medium term (6-9 month horizon)**
     - Address user feedback on lessons that need more clarity (as shared in issue queue)
