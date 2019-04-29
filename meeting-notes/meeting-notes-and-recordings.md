@@ -10,6 +10,7 @@ _Note: At the start of Q2 2019, ProtoSchool updates were covered as part of the 
 
 | Date | Meeting Notes | Video Recording |
 | :---: |  :---:  |  :---: |
+|  2019-04-25 (ProtoSchool Weekly Call) | [📝](./2019/2019-04-25.md) |  [🎬](https://youtu.be/e-X0QOS5TD8)    |
 |  2019-04-18 (ProtoSchool Weekly Call) | [📝](./2019/2019-04-18.md) |  [🎬](https://youtu.be/NAlrkYaEoyc)    |
 |  2019-04-11 (IPFS Community Working Group Sync)| [📝](https://github.com/ipfs/team-mgmt/blob/master/meeting-notes/2019/Q2/2019-04-11--ipfs-community-wg-weekly.md)     |  [🎬](https://youtu.be/rwPG5nd2g4I)    |
 
