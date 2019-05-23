@@ -10,6 +10,7 @@ _Note: At the start of Q2 2019, ProtoSchool updates were covered as part of the 
 
 | Date | Meeting Notes | Video Recording |
 | :---: |  :---:  |  :---: |
+|  2019-05-16 (ProtoSchool Weekly Call) | [📝](./2019/2019-05-16.md) |  [🎬](https://youtu.be/gJpz7Ydvikw)    |
 |  2019-05-09 (ProtoSchool Weekly Call) | [📝](./2019/2019-05-09.md) |  [🎬](https://youtu.be/MZUY0-hpPpM)    |
 |  2019-05-02 (ProtoSchool Weekly Call) | [📝](./2019/2019-05-02.md) |  [🎬](https://youtu.be/pthDyeCHDuc)    |
 |  2019-04-25 (ProtoSchool Weekly Call) | [📝](./2019/2019-04-25.md) |  [🎬](https://youtu.be/NAlrkYaEoyc)    |
