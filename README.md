@@ -23,7 +23,7 @@ To make it easy to get started with decentralized web technologies.
 ## Roadmap
 This proposed execution path represents our best intentions, and is subject to refinement and improvement as the needs and capacity of the project change over time.
 
-More tightly defined objectives and key results (OKRs) for the immediate future can be found in our [Q2 2019 OKRs](./okrs/2019-q2.md). See our [meeting notes](./meeting-notes/meeting-notes-and-recordings.md) or join our next [ProtoSchool Weekly Call](https://github.com/ProtoSchool/organizing/issues/47) for progress updates.
+More tightly defined objectives and key results (OKRs) for the immediate future can be found in our [Q3 2019 OKRs](./okrs/2019-q3.md). See our [meeting notes](./meeting-notes/meeting-notes-and-recordings.md) or join our next [ProtoSchool Weekly Call](https://github.com/ProtoSchool/organizing/issues/47) for progress updates.
 
 ### Content Development
 
