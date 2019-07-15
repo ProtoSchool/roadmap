@@ -5,6 +5,12 @@ Learn more about the [**ProtoSchool Weekly Call**](https://github.com/ProtoSchoo
 ## Meeting Notes and Video Recordings
 It's hard to schedule meetings that work across all timezones, so we do our best to make it easy to catch up on anything you've missed. Links to meeting notes and video recordings from the ProtoSchool Weekly Call (and the IPFS Community Working Group call that preceded it in early 2019) are shared below in reverse chronological order (newest to oldest).
 
+### Q3 2019
+
+| Date | Meeting Notes | Video Recording |
+| :---: |  :---:  |  :---: |
+| 2019-07-11 | [📝](./2019/2019-07-11.md) |  [🎬](https://youtu.be/GdCQ9RcWHUA)    |
+
 ### Q2 2019
 _Note: At the start of Q2 2019, ProtoSchool updates were covered as part of the weekly meeting of the IPFS Community Working Group. You'll see relevant links from both that meeting and the ProtoSchool Weekly Call below._
 
