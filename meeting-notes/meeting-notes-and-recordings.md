@@ -9,6 +9,8 @@ It's hard to schedule meetings that work across all timezones, so we do our best
 
 | Date | Meeting Notes | Video Recording |
 | :---: |  :---:  |  :---: |
+| 2019-07-25 | [📝](./2019/2019-07-25.md) |  NA   |
+| 2019-07-18 | [📝](./2019/2019-07-18.md) |  NA   |
 | 2019-07-11 | [📝](./2019/2019-07-11.md) |  [🎬](https://youtu.be/GdCQ9RcWHUA)    |
 
 ### Q2 2019
