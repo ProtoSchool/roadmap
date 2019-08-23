@@ -14,7 +14,7 @@ It's hard to schedule meetings that work across all timezones, so we do our best
 | 2019-08-08 | [📝](./2019/2019-08-08.md) |  [🎬](https://youtu.be/HdZklciwzK4)   |
 | 2019-08-01 | [📝](./2019/2019-08-01.md) |  [🎬](https://youtu.be/Bj1ZEa2dx9w)   |
 | 2019-07-25 | [📝](./2019/2019-07-25.md) |  NA   |
-| 2019-07-18 | [📝](./2019/2019-07-18.md) |  NA   |
+| 2019-07-18 | [📝](./2019/2019-07-18.md) |  [🎬](https://youtu.be/RYT678Jan_A)   |
 | 2019-07-11 | [📝](./2019/2019-07-11.md) |  [🎬](https://youtu.be/GdCQ9RcWHUA)    |
 
 ### Q2 2019
