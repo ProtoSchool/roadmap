@@ -1,15 +1,24 @@
-# ProtoSchool Weekly Call
+# ProtoSchool Community Call
 
-Learn more about the [**ProtoSchool Weekly Call**](https://github.com/ProtoSchool/organizing/issues/47), including how to join us!
+Learn more about the [**ProtoSchool Community Call**](https://github.com/ProtoSchool/organizing/issues/47), including how to join us!
 
 ## Meeting Notes and Video Recordings
-It's hard to schedule meetings that work across all timezones, so we do our best to make it easy to catch up on anything you've missed. Links to meeting notes and video recordings from the ProtoSchool Weekly Call (and the IPFS Community Working Group call that preceded it in early 2019) are shared below in reverse chronological order (newest to oldest).
+It's hard to schedule meetings that work across all timezones, so we do our best to make it easy to catch up on anything you've missed. Links to meeting notes and video recordings from the ProtoSchool Community Call (and the IPFS Community Working Group call that preceded it in early 2019) are shared below in reverse chronological order (newest to oldest).
 
-### Q3 2019
+### Q4 2019
+_ProtoSchool Conmunity Calls, held monthly_
 
 | Date | Meeting Notes | Video Recording |
 | :---: |  :---:  |  :---: |
-| 2019-09-19 | [📝](./2019/2019-09-19.md)  | [🎬](https://youtu.be/vR3RP8A_T3E) |
+| 2019-10-10  | [📝](./2019/2019-10-10.md)  | NA   |
+
+
+### Q3 2019
+_ProtoSchool Weekly Calls_
+
+| Date | Meeting Notes | Video Recording |
+| :---: |  :---:  |  :---: |
+| 2019-09-19  | [📝](./2019/2019-09-19.md)  | [🎬](https://youtu.be/vR3RP8A_T3E)   |
 | 2019-09-12  | [📝](./2019/2019-09-12.md)  | [🎬](https://youtu.be/d9Ry-o_PO4c)   |
 | 2019-09-05 | [📝](./2019/2019-09-05.md) | NA  |
 | 2019-08-22 | [📝](./2019/2019-08-22.md) |  [🎬](https://youtu.be/Y-LVh7Qh9R4)   |
