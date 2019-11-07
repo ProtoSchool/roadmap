@@ -10,6 +10,7 @@ _ProtoSchool Conmunity Calls, held monthly_
 
 | Date | Meeting Notes | Video Recording |
 | :---: |  :---:  |  :---: |
+| 2019-11-07  | [📝](./2019/2019-11-07.md)  | [🎬](https://youtu.be/foRz7Zcxi7U)   |
 | 2019-10-10  | [📝](./2019/2019-10-10.md)  | NA   |
 
 
