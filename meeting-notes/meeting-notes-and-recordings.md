@@ -5,8 +5,16 @@ Learn more about the [**ProtoSchool Community Call**](https://github.com/ProtoSc
 ## Meeting Notes and Video Recordings
 It's hard to schedule meetings that work across all timezones, so we do our best to make it easy to catch up on anything you've missed. Links to meeting notes and video recordings from the ProtoSchool Community Call (and the IPFS Community Working Group call that preceded it in early 2019) are shared below in reverse chronological order (newest to oldest).
 
+
+### Q1 2020
+_ProtoSchool Conmunity Calls (monthly)_
+
+| Date | Meeting Notes | Video Recording |
+| :---: |  :---:  |  :---: |
+| 2020-01-09 | [📝](./2020/2020-01-09.md)  | [🎬](https://youtu.be/aUPEQjWVhSU)   |
+
 ### Q4 2019
-_ProtoSchool Conmunity Calls, held monthly_
+_ProtoSchool Conmunity Calls (monthly)_
 
 | Date | Meeting Notes | Video Recording |
 | :---: |  :---:  |  :---: |
