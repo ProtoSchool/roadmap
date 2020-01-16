@@ -20,12 +20,21 @@ To make it easy to get started with decentralized web technologies.
 - [**Community Growth:** Chapter leaders are enabled to foster local learning communities around the globe.](#community-growth)
 - [**Project Management:** Internal structures position ProtoSchool for future growth.](#project-management)
 
-## Roadmap
+## Roadmap & OKRs
+
+Our OKRs and roadmap provide insight into _how_ we plan to accomplish our top-level goals over time while adhering to the project's guiding principles. 
+
+### Objectives and Key Results (OKRs)
+
+Objectives and key results (OKRs) for the immediate future can be found in our [Q1 2020 OKRs](./okrs/2020-q1.md), with links to GitHub issues where relevant. You can also join our next [ProtoSchool Community Call](https://github.com/ProtoSchool/organizing/issues/47) or review our [meeting notes](./meeting-notes/meeting-notes-and-recordings.md) for progress updates.
+
+### Roadmap
+
 This proposed execution path represents our best intentions, and is subject to refinement and improvement as the needs and capacity of the project change over time.
 
-More tightly defined objectives and key results (OKRs) for the immediate future can be found in our [Q3 2019 OKRs](./okrs/2019-q3.md). See our [meeting notes](./meeting-notes/meeting-notes-and-recordings.md) or join our next [ProtoSchool Weekly Call](https://github.com/ProtoSchool/organizing/issues/47) for progress updates.
+_Last update: 2019-03-27_
 
-### Content Development
+#### Content Development
 
 **Objective: The ProtoSchool website includes a increasing range of tutorial content from across multiple projects.**
 
@@ -48,7 +57,7 @@ More tightly defined objectives and key results (OKRs) for the immediate future 
     -   Assess demand for (and challenges of creating) command line tutorials
     -   Assess demand for content from projects not sponsored by Protocol Labs
 
-### Learner Experience
+#### Learner Experience
 
 **Objective: The ProtoSchool website’s structure and design support a positive learning experience.**
 
@@ -75,7 +84,7 @@ More tightly defined objectives and key results (OKRs) for the immediate future 
       -   Explore localization/translation strategy
 
 
-### Community Growth
+#### Community Growth
 
 **Objective: Chapter leaders are enabled to foster local learning communities around the globe.**
 
@@ -100,7 +109,7 @@ More tightly defined objectives and key results (OKRs) for the immediate future 
         -   Call for organizers via social channels
         -   Build map of chapters around the world
 
-### Project Management
+#### Project Management
 
 **Objective: Internal structures position ProtoSchool for future growth.**
 
