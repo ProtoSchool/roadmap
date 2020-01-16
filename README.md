@@ -15,7 +15,7 @@ To make it easy to get started with decentralized web technologies.
 
 ## Top-Level Goals
 
-- [**Content Development:** The ProtoSchool website includes a increasing range of tutorial content from across multiple projects.](#content-development)
+- [**Content Development:** The ProtoSchool website includes an increasing range of tutorial content from across multiple projects.](#content-development)
 - [**Learner Experience:** The ProtoSchool website’s structure and design support a positive learning experience.](#learner-experience)
 - [**Community Growth:** Chapter leaders are enabled to foster local learning communities around the globe.](#community-growth)
 - [**Project Management:** Internal structures position ProtoSchool for future growth.](#project-management)
