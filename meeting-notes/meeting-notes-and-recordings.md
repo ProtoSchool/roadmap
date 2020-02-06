@@ -11,6 +11,7 @@ _ProtoSchool Conmunity Calls (monthly)_
 
 | Date | Meeting Notes | Video Recording |
 | :---: |  :---:  |  :---: |
+| 2020-02-06 | [📝](./2020/2020-02-06.md)  | [🎬](https://youtu.be/C4bwh1p5STI)   |
 | 2020-01-09 | [📝](./2020/2020-01-09.md)  | [🎬](https://youtu.be/aUPEQjWVhSU)   |
 
 ### Q4 2019
