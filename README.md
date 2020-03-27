@@ -34,7 +34,9 @@ This proposed execution path represents our best intentions, and is subject to r
 
 _Last roadmap update: 2019-03-27_
 
-_Last status update: 2020-01-16_
+_Last status update: 2020-03-27_
+
+(X) _No longer relevant_
 
 (&olarr;) _Work started or ongoing_
 
@@ -54,12 +56,12 @@ _Last status update: 2020-01-16_
 - **Medium term (6-9 month horizon)**
     -   Work with PL project teams to draft a content roadmap  (&olarr;)
     -   Add tutorials on libp2p and IPLD
-    -   Increase quantity of IPFS content 
+    -   Increase quantity of IPFS content  (&olarr;)
     -   Iterate on process for enabling community contributors to build tutorials   (&olarr;)
 
 
 -   **Long term (~1 year +)**
-    -   Add tutorials on Filecoin and Multiformats 
+    -   Add tutorials on Filecoin and Multiformats  (&olarr;)
     -   Assess demand for (and challenges of creating) command line tutorials   (&olarr;)
     -   Assess demand for content from projects not sponsored by Protocol Labs 
 
@@ -78,7 +80,7 @@ _Last status update: 2020-01-16_
       -   Conduct UX review / usability testing to assess future needs around user interface, accessibility, and responsive design 
       -   Improve clarity of relationship between lessons and tutorials through typography, consistent naming, and improved navigation
       -   Enable labeling, sorting, or filtering of tutorials by subject matter (product/protocol)   (&olarr;)
-        -   Improve branding and visual design, including iconography and diagrams
+        -   Improve branding and visual design, including iconography and diagrams (&olarr;)
         -   Offer learner the option to view the solution to a challenge (&check;)
         -   Enable enhanced metadata by page to support social sharing 
 
@@ -95,20 +97,20 @@ _Last status update: 2020-01-16_
 
 -   **Short term (Q2 2019)**
     - Improve internal processes to support chapter creation
-       -   Automate chapter repo creation in GitHub   (&olarr;)
-       -   Clarify guidance and expectations for chapter organizers   (&olarr;)
+       -   Automate chapter repo creation in GitHub   (X)
+       -   Clarify guidance and expectations for local event organizers   (&check;)
 
 
   -   **Medium term (6-9 month horizon)**
     -   Improve organizer experience and onboarding
         -   Provide positive examples of effective events and community discussions   (&olarr;) 
-        -   Offer opportunities for chapter leaders to learn from each other (sync calls, discussions)   (&olarr;)
-        -   Amplify chapter events through social channels   (&olarr;)
+        -   Offer opportunities for chapter leaders to learn from each other (sync calls, discussions)    (&check;)
+        -   Amplify local events through social channels   (&check;)
         -   Provide additional ProtoSchool swag 
 
 
 -   **Long term (~1 year +)**
-    -   Proactively increase number of local chapters
+    -   Proactively increase number of local event leaders
         -   Target IPFS meetup organizers
         -   Highlight ProtoSchool at related events   
         -   Call for organizers via social channels
