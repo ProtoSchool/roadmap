@@ -9,8 +9,8 @@ To make it easy to get started with decentralized web technologies.
 
 -   ProtoSchool’s self-paced online tutorials are **beginner-friendly**. (Advanced content is presented only when we have intermediate content in place to provide **scaffolding** that bridges the content gap.)
 -   ProtoSchool offers a **cohesive** and **consistently-formatted** set of tutorials for learning about the decentralized web. (It doesn’t serve as a catch-all for all formats of educational content.)
--   A **growing community** of local, **self-governing** ProtoSchool chapters provide the opportunity for learners to explore our tutorials at **live events** with **support from mentors**.
--   Online tutorials, local events, and chapter discussions provide a **welcoming and inclusive environment** for all community members.
+-   Local, **self-governing community groups** provide the opportunity for learners to explore our tutorials at **live events** with **support from mentors**.
+-   Online tutorials, local events, and online discussions provide a **welcoming and inclusive environment** for all community members.
 
 
 ## Top-Level Goals
