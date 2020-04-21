@@ -17,7 +17,7 @@ To make it easy to get started with decentralized web technologies.
 
 - [**Content Development:** The ProtoSchool website includes an increasing range of tutorial content from across multiple projects.](#content-development)
 - [**Learner Experience:** The ProtoSchool website’s structure and design support a positive learning experience.](#learner-experience)
-- [**Community Growth:** Chapter leaders are enabled to foster local learning communities around the globe.](#community-growth)
+- [**Community Growth:** Event leaders are enabled to foster local learning communities around the globe.](#community-growth)
 - [**Project Management:** Internal structures position ProtoSchool for future growth.](#project-management)
 
 ## Roadmap & OKRs
@@ -93,7 +93,7 @@ _Last status update: 2020-03-27_
 
 #### Community Growth
 
-**Objective: Chapter leaders are enabled to foster local learning communities around the globe.**
+**Objective: Event leaders are enabled to foster local learning communities around the globe.**
 
 -   **Short term (Q2 2019)**
     - Improve internal processes to support chapter creation
