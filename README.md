@@ -22,11 +22,11 @@ To make it easy to get started with decentralized web technologies.
 
 ## Roadmap & OKRs
 
-Our OKRs and roadmap provide insight into _how_ we plan to accomplish our top-level goals over time while adhering to the project's guiding principles. 
+Our OKRs and roadmap provide insight into _how_ we plan to accomplish our top-level goals over time while adhering to the project's guiding principles.
 
 ### Objectives and Key Results (OKRs)
 
-Objectives and key results (OKRs) for the immediate future can be found in our [Q1 2020 OKRs](./okrs/2020-q1.md), with links to GitHub issues where relevant. You can also join our next [ProtoSchool Community Call](https://github.com/ProtoSchool/organizing/issues/47) or review our [meeting notes](./meeting-notes/meeting-notes-and-recordings.md) for progress updates.
+Objectives and key results (OKRs) for the immediate future can be found in our [Q3 2020 OKRs](./okrs/2020-q3.md), with links to GitHub issues where relevant.
 
 ### Roadmap
 
@@ -34,7 +34,7 @@ This proposed execution path represents our best intentions, and is subject to r
 
 _Last roadmap update: 2019-03-27_
 
-_Last status update: 2020-03-27_
+_Last status update: 2020-06-18_
 
 (X) _No longer relevant_
 
@@ -61,9 +61,9 @@ _Last status update: 2020-03-27_
 
 
 -   **Long term (~1 year +)**
-    -   Add tutorials on Filecoin and Multiformats  (&olarr;)
+    -   Add tutorials on Filecoin and Multiformats  (&check;)
     -   Assess demand for (and challenges of creating) command line tutorials   (&olarr;)
-    -   Assess demand for content from projects not sponsored by Protocol Labs 
+    -   Assess demand for content from projects not sponsored by Protocol Labs
 
 #### Learner Experience
 
@@ -77,16 +77,16 @@ _Last status update: 2020-03-27_
 
   -   **Medium term (6-9 month horizon)**
     - Address user feedback on lessons that need more clarity (as shared in issue queue)    (&olarr;)
-      -   Conduct UX review / usability testing to assess future needs around user interface, accessibility, and responsive design 
+      -   Conduct UX review / usability testing to assess future needs around user interface, accessibility, and responsive design
       -   Improve clarity of relationship between lessons and tutorials through typography, consistent naming, and improved navigation
       -   Enable labeling, sorting, or filtering of tutorials by subject matter (product/protocol)   (&olarr;)
         -   Improve branding and visual design, including iconography and diagrams (&olarr;)
         -   Offer learner the option to view the solution to a challenge (&check;)
-        -   Enable enhanced metadata by page to support social sharing 
+        -   Enable enhanced metadata by page to support social sharing
 
 
   -   **Long term (~1 year +)**
-      -   Build support for chunking tutorials into courses of study   (&olarr;)
+      -   Build support for chunking tutorials into courses of study   (&check;)
       -   Iterate on “useful concepts” vs embedded glossary support
       -   Explore localization/translation strategy
 
@@ -103,16 +103,16 @@ _Last status update: 2020-03-27_
 
   -   **Medium term (6-9 month horizon)**
     -   Improve organizer experience and onboarding
-        -   Provide positive examples of effective events and community discussions   (&olarr;) 
+        -   Provide positive examples of effective events and community discussions   (&olarr;)
         -   Offer opportunities for chapter leaders to learn from each other (sync calls, discussions)    (&check;)
         -   Amplify local events through social channels   (&check;)
-        -   Provide additional ProtoSchool swag 
+        -   Provide additional ProtoSchool swag
 
 
 -   **Long term (~1 year +)**
     -   Proactively increase number of local event leaders
         -   Target IPFS meetup organizers
-        -   Highlight ProtoSchool at related events   
+        -   Highlight ProtoSchool at related events
         -   Call for organizers via social channels
         -   Build map of chapters around the world
 
