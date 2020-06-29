@@ -1,15 +1,17 @@
 # ProtoSchool Community Call
 
-Learn more about the [**ProtoSchool Community Call**](https://github.com/ProtoSchool/organizing/issues/47), including how to join us!
+The [**ProtoSchool Community Call**](https://github.com/ProtoSchool/organizing/issues/47) is currently paused, and we encourage you to [subscribe to the ProtoSchool newsletter](https://proto.schoool/#/news) for important project updates. You can also open issues about local community organizing in our [organizing repo](https://github.com/protoschool/organizing/issues) or about the ProtoSchool website and our curriculum in our [website repo](https://github.com/protoschool/protoschool.github.io/issues). If all else fails, please [email the project maintainers](mailto:protoschool@protocol.ai). 
 
 ## Meeting Notes and Video Recordings
-It's hard to schedule meetings that work across all timezones, so we do our best to make it easy to catch up on anything you've missed. Links to meeting notes and video recordings from the ProtoSchool Community Call (and the IPFS Community Working Group call that preceded it in early 2019) are shared below in reverse chronological order (newest to oldest).
+
+Meeting notes and video recordings from the ProtoSchool Community Call (and the IPFS Community Working Group call that preceded it in early 2019) are shared below in reverse chronological order (newest to oldest).
 
 ### Q2 2020
 _ProtoSchool Community Calls (monthly)_
 
 | Date | Meeting Notes | Video Recording |
 | :---: |  :---:  |  :---: |
+| 2020-06-04 | [📝](./2020/2020-06-04.md)  | [🎬](https://youtu.be/IpBFe53pMtM)   |
 | 2020-05-07 | [📝](./2020/2020-05-07.md)  | [🎬](https://youtu.be/ohJRA-yKgOs)   |
 | 2020-04-02 | [📝](./2020/2020-04-02.md)  | [🎬](https://youtu.be/zaV_GVnVSNQ)   |
 
