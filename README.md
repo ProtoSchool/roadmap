@@ -26,7 +26,7 @@ Our OKRs and roadmap provide insight into _how_ we plan to accomplish our top-le
 
 ### Objectives and Key Results (OKRs)
 
-Objectives and key results (OKRs) for the immediate future can be found in our [Q3 2020 OKRs](./okrs/2020-q3.md), with links to GitHub issues where relevant.
+Objectives and key results (OKRs) for the immediate future can be found in our [Q1 2021 OKRs](./okrs/2021-q1.md), with links to GitHub issues where relevant.
 
 ### Roadmap
 
@@ -34,7 +34,7 @@ This proposed execution path represents our best intentions, and is subject to r
 
 _Last roadmap update: 2019-03-27_
 
-_Last status update: 2020-06-18_
+_Last status update: 2021-01-21_
 
 (X) _No longer relevant_
 
@@ -55,9 +55,9 @@ _Last status update: 2020-06-18_
 
 - **Medium term (6-9 month horizon)**
     -   Work with PL project teams to draft a content roadmap  (&olarr;)
-    -   Add tutorials on libp2p and IPLD
+    -   Add tutorials on libp2p and IPLD (&olarr;)
     -   Increase quantity of IPFS content  (&olarr;)
-    -   Iterate on process for enabling community contributors to build tutorials   (&olarr;)
+    -   Iterate on process for enabling community contributors to build tutorials  (&check;)
 
 
 -   **Long term (~1 year +)**
@@ -79,16 +79,16 @@ _Last status update: 2020-06-18_
     - Address user feedback on lessons that need more clarity (as shared in issue queue)    (&olarr;)
       -   Conduct UX review / usability testing to assess future needs around user interface, accessibility, and responsive design
       -   Improve clarity of relationship between lessons and tutorials through typography, consistent naming, and improved navigation
-      -   Enable labeling, sorting, or filtering of tutorials by subject matter (product/protocol)   (&olarr;)
+      -   Enable labeling, sorting, or filtering of tutorials by subject matter (product/protocol)   (&check;)
         -   Improve branding and visual design, including iconography and diagrams (&olarr;)
         -   Offer learner the option to view the solution to a challenge (&check;)
-        -   Enable enhanced metadata by page to support social sharing
+        -   Enable enhanced metadata by page to support social sharing (&check;)
 
 
   -   **Long term (~1 year +)**
       -   Build support for chunking tutorials into courses of study   (&check;)
       -   Iterate on “useful concepts” vs embedded glossary support
-      -   Explore localization/translation strategy
+      -   Explore localization/translation strategy (&olarr;)
 
 
 #### Community Growth
